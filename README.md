@@ -15,8 +15,8 @@ terraform apply
 
 ## Outputs
 
-| Name | Description |
-|------|-------------|
-| `s3_bucket_name` | S3 bucket name |
-| `cloudfront_domain_name` | CloudFront distribution domain name |
-| `cloudfront_distribution_id` | CloudFront distribution ID |
+| Name | Description | Value |
+|------|-------------|-------|
+| `s3_bucket_name` | S3 bucket name | `tsabunkar-downloads` |
+| `cloudfront_domain_name` | CloudFront distribution domain name | `ds9ldewmzezyd.cloudfront.net` |
+| `cloudfront_distribution_id` | CloudFront distribution ID | `EUWTQ5ITZAMYA` |
